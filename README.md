@@ -10,9 +10,13 @@ Practice in:
 - HTML & CSS
 
 ### 📈 Statistics
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jshstw&include_all_commits=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jshstw&layout=compact" />
-</a>
+<table>
+  <tr>
+    <td align="center" style="padding=0; width=50%;">
+      <img src="https://github-readme-stats.vercel.app/api?username=jshstw&include_all_commits=true&show_icons=true&hide_title=true&count_private=true&hide_border=true" />
+    </td>
+    <td align="center" style="padding=0; width=50%;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jshstw&layout=compact&hide_border=true" />
+    </td>
+  </tr>
+</table>
