@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, I'm Josh 👋
+A student from the UK, passionate about blockchain, machine learning, and the future of AI.
 
-<!--
-**jshstw/jshstw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Languages
+Practice in:
+- Python
+- Java
+- Solidity
+- JavaScript
+- HTML & CSS
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Statistics
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jshstw&include_all_commits=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jshstw&layout=compact" />
+</a>
