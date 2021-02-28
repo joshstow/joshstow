@@ -1,4 +1,4 @@
-### Hi, I'm Josh Stow 👋
+### Hello, I'm Josh Stow 👋
 A student from the United Kingdom, passionate about blockchain, machine learning, and the future of AI.
 
 ### 💻 Languages
