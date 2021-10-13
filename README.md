@@ -1,8 +1,8 @@
 ### 💻 Languages
 Practice in:
 - Python
-- Java
 - Solidity
+- Java
 - JavaScript
 - HTML & CSS
 
