@@ -1,19 +1,23 @@
-### 💻 Languages
-Practice in:
-- Python
-- Solidity
-- Java
-- JavaScript
-- HTML & CSS
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=joshstow&show_icons=true&theme=dark&rank_icon=github"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=joshstow&show_icons=true&rank_icon=github"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align=top src="https://github-readme-stats.vercel.app/api?username=joshstow&show_icons=true&rank_icon=github" />
+</picture>
 
-### 📈 Statistics
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=joshstow&include_all_commits=true&show_icons=true&hide_title=true&count_private=true&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshstow&layout=compact&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joshstow&hide_progress=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joshstow&hide_progress=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshstow&hide_progress=true" />
+</picture>
