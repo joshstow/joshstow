@@ -1,6 +1,6 @@
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=joshstow&show_icons=true&theme=dark&rank_icon=github&border_color=30363d"
+    srcset="https://github-readme-stats.vercel.app/api?username=joshstow&show_icons=true&theme=dark&rank_icon=github&border_color=30363d&bg_color=00000000"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -12,7 +12,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joshstow&hide_progress=true&theme=dark&border_color=30363d"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joshstow&hide_progress=true&theme=dark&border_color=30363d&bg_color=00000000"
     media="(prefers-color-scheme: dark)"
   />
   <source
