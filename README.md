@@ -21,3 +21,6 @@
   />
   <img align=top src="https://github-readme-stats-lac-two-62.vercel.app/api/top-langs/?username=joshstow&hide_progress=true&border_color=30363d&bg_color=00000000" />
 </picture>
+
+#### Languages:
+`Python, Java, C++, JavaScript, TypeScript, Solidity`
